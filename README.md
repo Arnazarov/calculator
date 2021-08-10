@@ -17,4 +17,5 @@ The app written in MVC architecture and has following classes, files and methods
  - View.fxml (User-interface)
  
  Screenshot:
- ![Image of example1] 
+ ![Image of example1] (https://github.com/Arnazarov/Calculator/blob/master/Screen1.JPG)
+ ![Image of example2] (https://github.com/Arnazarov/Calculator/blob/master/Screen2.JPG)
